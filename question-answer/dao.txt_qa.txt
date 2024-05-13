@@ -1,0 +1,21 @@
+ Question: What is the Digital Artifact Ontology?
+ 
+
+ Answer: The Digital Artifact Ontology contains various types of digital artifacts such as files, processes, network traffic, and software applications.
+ 
+
+ Question: What are some examples of artifacts in the Digital Artifact Ontology related to network traffic?
+ 
+
+ Answer: Examples of artifacts related to network traffic include DHCP Network Traffic, TFTP Network Traffic, DNS Network Traffic, and Intranet Administrative Network Traffic.
+ 
+
+ Question: How is the Digital Artifact Ontology related to offensive and defensive techniques?
+ 
+
+ Answer: The Digital Artifact Ontology contains artifacts that can be used to analyze and understand offensive and defensive techniques in cybersecurity.
+ 
+
+ Question: What is the purpose of the Digital Artifact Ontology?
+ 
+

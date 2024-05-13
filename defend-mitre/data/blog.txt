@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   matrix artifacts taxonomies about resources contribute faq blog     D3FEND Blog Technical articles written by the D3FEND dev team.  GENERAL  D3FEND: Getting to 1.0  10/23/2023 Peter Kaloroumakis  general     Search    ✖   D3FEND: Getting to 1.0      ✖   GENERAL    Sort Date
+      ↑ ↓ Tags general  Version 0.12.0-BETA-2 0.13.0-BETA-1      Use of the MITRE D3FEND™ Knowledge Graph and website is subject to the Terms of Use. Use of the MITRE D3FEND website is subject to the
+    MITRE D3FEND Privacy Policy. MITRE D3FEND is funded
+    by the
+    National Security Agency
+    (NSA)
+    Cybersecurity Directorate
+    and managed by the
+    National Security Engineering Center
+    (NSEC) which is operated by
+    The MITRE Corporation. MITRE D3FEND; and the MITRE D3FEND logo are trademarks of The MITRE
+    Corporation. MITRE ATT&CK® and ATT&CK® are registered trademarks of
+    The MITRE Corporation. MITRE ATT&CK content is subject to the MITRE ATT&CK
+    terms of use.
+    This software was produced for the U. S. Government under Basic Contract No.
+    W56KGU-18-D-0004, and is subject to the Rights in Noncommercial Computer
+    Software and Noncommercial Computer Software Documentation Clause
+    252.227-7014 (FEB 2012)
+    © 2023 The MITRE Corporation.
+    Approved for Public Release; Distribution Unlimited #20-2338 and #23-1207.  
+
+
+
+
+
+
+
+
+
+
+
+Scraped at: 2024-05-04 23:10:58

@@ -1,0 +1,42 @@
+ Q: What is D3FEND?
+ A: D3FEND is a knowledge base, specifically a knowledge graph, of cybersecurity countermeasure techniques.
+
+ 
+ Q: Who is D3FEND for?
+
+ A: D3FEND is for security systems architecture experts and technical executives making acquisition or investment decisions.
+ 
+
+ Q: What are the use cases of D3FEND?
+ A: The dominant use case of D3FEND is to inform acquisition and investment decisions by comparing claimed functionality in different product sets and suggesting testing scopes for defensive techniques.
+
+ 
+ Q: How often is D3FEND updated?
+
+ A: The target update frequency for D3FEND is semi-annually, but updates may be more frequent initially due to the newness of the project.
+ 
+
+ Q: How can I contribute to D3FEND?
+ A: To contribute to D3FEND, you can follow the guidelines on the how to contribute page on the website.
+
+ 
+ Q: What does D3FEND stand for?
+
+ A: D3FEND stands for Detection, Denial, and Disruption Framework Empowering Network Defense.
+ 
+
+ Q: Why does D3FEND reference patents?
+ A: D3FEND references patents because they provide a curated corpus with detailed explanations of cybersecurity technologies, which can be useful for developing a knowledge graph of cyber countermeasures.
+
+ 
+ Q: What is D3FEND maturity level?
+
+ A: D3FEND is a maturing research project, with the initial release not considered comprehensive, but mature enough to model defenses and aid in communications amongst stakeholders.
+ 
+
+ Q: What does a listed reference in D3FEND imply?
+ A: References in D3FEND can be various types of internet links, such as patents, external knowledgebases, open specifications, and open-source code repositories, used for developing the countermeasure technique knowledgebase article.
+
+ 
+ Q: What is D3FEND not?
+

@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taxonomies | MITRE D3FEND™
+
+
+
+   matrix artifacts taxonomies about resources contribute faq blog      Taxonomies inside the D3FEND Ontology Taxonomies are an essential concept in knowledge management. They capture hierarchical information into a tree-like structure. The most common "type" of taxonomy is a type hierarchy. For example, a car is a type of vehicle, and a vehicle is a physical object. Another type of taxonomy, called a mereology, is a hierarchy of composition. For example, a tire is part of a wheel which is part of a car. D3FEND has many taxonomies inside its ontology, which is a graph-like structure. This page includes a variety of taxonomies in D3FEND, but not all. This is intended to orient you to the type of information in the D3FEND ontology. You can imagine how all these concepts relate to each other, and other things like offensive techniques, defensive techniques, and even weaknesses or vulnerabilities. This is the sort of information we aim to organize and interrelate with the D3FEND ontology. Featured Taxonomies  TaxonomyDescription D3FEND Analytic Characterization FrameworkTaxonomy & KB of Analytic Techniques  Selections from the Digital Artifact Ontology  TaxonomyDescription Digital EventsTaxonomy of abstract digital events types. SensorsTaxonomy of sensors types. FilesTaxonomy of abstract file types. ProcessTaxonomy of process types. Network NodesTaxonomy of network node types including hosts, clients, and servers. LinksTaxonomy of links (network links) which connect or facilitate communication between network nodes. SoftwareTaxonomy of software types including firwmare, applications, and scripts. Network TrafficTaxonomy of network traffic types, oriented by directionality, network protocol, and traffic contents. System CallsTaxonomy of system call types. OS API FunctionsTaxonomy of OS API Function types (vendor agnostic). Software SubroutinesTaxonomy of types of user space application subroutine types organized by developer intent and objective. FirmwareTaxonomy of firmware types. StorageTaxonomy of computer storage types including primary and secondary storage. User AccountsTaxonomy of user account types. CredentialsTaxonomy of computer credential types. ResourcesTaxonomy of computer resource types, this is a very broad category which includes other previously listed taxonomies. Hardware DevicesTaxonomy of hardware device types, these are both physical artfiacts and digital artifacts.  Use of the MITRE D3FEND™ Knowledge Graph and website is subject to the Terms of Use. Use of the MITRE D3FEND website is subject to the
+    MITRE D3FEND Privacy Policy. MITRE D3FEND is funded
+    by the
+    National Security Agency
+    (NSA)
+    Cybersecurity Directorate
+    and managed by the
+    National Security Engineering Center
+    (NSEC) which is operated by
+    The MITRE Corporation. MITRE D3FEND; and the MITRE D3FEND logo are trademarks of The MITRE
+    Corporation. MITRE ATT&CK® and ATT&CK® are registered trademarks of
+    The MITRE Corporation. MITRE ATT&CK content is subject to the MITRE ATT&CK
+    terms of use.
+    This software was produced for the U. S. Government under Basic Contract No.
+    W56KGU-18-D-0004, and is subject to the Rights in Noncommercial Computer
+    Software and Noncommercial Computer Software Documentation Clause
+    252.227-7014 (FEB 2012)
+    © 2023 The MITRE Corporation.
+    Approved for Public Release; Distribution Unlimited #20-2338 and #23-1207.  
+
+
+
+
+
+
+
+
+
+
+Scraped at: 2024-05-04 23:10:43

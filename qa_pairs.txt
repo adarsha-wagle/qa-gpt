@@ -1,0 +1,33 @@
+Q: Q: What is the D3FEND Knowledge Graph Project?
+A: A: The D3FEND Knowledge Graph Project is a framework created by MITRE to encode a cybersecurity countermeasure knowledge base using semantically rigorous types and relations.
+
+Q: 
+A: Q: What is the purpose of the D3FEND Knowledge Graph?
+
+Q: A: The purpose of the D3FEND Knowledge Graph is to precisely specify cybersecurity countermeasure components and capabilities, as well as to provide information on how these capabilities address threats and under what circumstances they would be effective.
+A: 
+
+Q: Q: How was the D3FEND Knowledge Graph created?
+A: A: The D3FEND Knowledge Graph was created using research literature and over 500 countermeasure patents from the U.S. Patent Office from 2001 to 2018 as source material.
+
+Q: 
+A: Q: What is the long-term vision for the D3FEND Knowledge Graph?
+
+Q: A: The long-term vision for the D3FEND Knowledge Graph is to leverage linked open data on research literature and apply machine learning techniques to assist in maintaining the knowledge graph over time.
+A: 
+
+Q: Q: Who funded the research for the D3FEND Knowledge Graph?
+A: A: The research for the D3FEND Knowledge Graph was funded by the Cybersecurity Directorate of the National Security Agency under contract W56KGU-18-D-0004.
+
+Q: 
+A: Q: What are the trademarks associated with the D3FEND Knowledge Graph?
+
+Q: A: The trademarks associated with the D3FEND Knowledge Graph are MITRE D3FEND and the MITRE D3FEND logo.
+A: 
+
+Q: Q: What terms of use apply to the MITRE D3FEND Knowledge Graph and website?
+A: A: The use of the MITRE D3FEND Knowledge Graph and website is subject to the Terms of Use and Privacy Policy specified by MITRE.
+
+Q: 
+A: Q: What is the relationship between MITRE D3FEND and MITRE ATT&CK?
+

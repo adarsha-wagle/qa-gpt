@@ -1,0 +1,21 @@
+ Q: What is the D3FEND blog?
+ A: The D3FEND blog is a collection of technical articles written by the D3FEND dev team.
+
+ 
+ Q: What is D3FEND funded by?
+
+ A: D3FEND is funded by the National Security Agency (NSA) Cybersecurity Directorate.
+ 
+
+ Q: What are some trademarks associated with D3FEND?
+ A: The MITRE D3FEND, MITRE D3FEND logo, and MITRE ATT&CK are trademarks associated with D3FEND.
+
+ 
+ Q: What is the purpose of the MITRE D3FEND Knowledge Graph and website?
+
+ A: The purpose of the MITRE D3FEND Knowledge Graph and website is to provide resources related to cybersecurity.
+ 
+
+ Q: What is the legal status of the MITRE D3FEND content?
+ A: The MITRE D3FEND content is subject to the MITRE D3FEND Terms of Use and Privacy Policy.
+

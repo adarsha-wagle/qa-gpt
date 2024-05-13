@@ -1,0 +1,12 @@
+ Q: How can I contribute to the D3FEND project?
+ A: You can contribute to the D3FEND project by providing feedback, submitting pull requests on Github, joining the Slack channel, or emailing the project team at d3fend@mitre.org.
+
+ 
+ Q: What are some ways to submit contributions or feedback to the D3FEND project?
+
+ A: You can submit contributions or feedback by using the New Technique Proposal Form, committing to the D3FEND Ontology, or reaching out to the project team through various channels such as Github, Slack, or email.
+ 
+
+ Q: Who are some of the contributors to the D3FEND project?
+ A: Some contributors to the D3FEND project include Roberto Polli, Ryan Xu, Adrian Medina, Andrew Case, Meisam Eslahi, and many others who have provided content to grow the knowledge graph for public benefit.
+

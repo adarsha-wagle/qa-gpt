@@ -1,0 +1,30 @@
+ Q: What is the D3FEND matrix?
+ A: The D3FEND matrix is a knowledge graph of cybersecurity countermeasures organized into categories and subcategories.
+
+ 
+ Q: What are some examples of countermeasures in the D3FEND matrix?
+
+ A: Examples of countermeasures include data obfuscation, OS credential dumping, rootkit, process injection, and many more.
+ 
+
+ Q: What is MITRE D3FEND funded by?
+ A: MITRE D3FEND is funded by the National Security Agency (NSA) Cybersecurity Directorate.
+
+ 
+ Q: Is the use of the MITRE D3FEND website subject to any terms of use?
+
+ A: Yes, the use of the MITRE D3FEND website is subject to the MITRE D3FEND Terms of Use.
+ 
+
+ Q: What are some trademarks associated with MITRE D3FEND?
+ A: Trademarks associated with MITRE D3FEND include the MITRE D3FEND logo and the MITRE D3FEND name.
+
+ 
+ Q: What is MITRE ATT&CK?
+
+ A: MITRE ATT&CK is a registered trademark of The MITRE Corporation and refers to a knowledge base of adversary tactics and techniques.
+ 
+
+ Q: What is the purpose of the MITRE D3FEND matrix?
+ A: The purpose of the MITRE D3FEND matrix is to provide a comprehensive framework of cybersecurity countermeasures to help organizations protect against threats and attacks.
+

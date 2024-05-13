@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions | MITRE D3FEND™
+
+
+
+   matrix artifacts taxonomies about resources contribute faq blog      Frequently Asked Questions
+What is D3FEND?
+D3FEND is a knowledge base, but more specifically a knowledge graph, of cybersecurity countermeasure techniques. In the simplest sense, it is a catalog of defensive cybersecurity techniques and their relationships to offensive/adversary techniques. The primary goal of the initial D3FEND release is to help standardize the vocabulary used to describe defensive cybersecurity technology functionality.
+What is D3FEND not?
+D3FEND does not prescribe specific countermeasures, it does not prioritize them, and it does not characterize their effectiveness. However, standardizing the vocabulary we use to describe technical countermeasures may help us solve those problems.
+Who is D3FEND for?
+D3FEND has multiple audiences. The most immediate is security systems architecture experts and technical executives making acquisition or investment decisions. If you need to understand how cyber defenses work in granular detail, D3FEND is meant to be a good starting point.
+What are D3FEND use cases?
+The dominant use case thus far has been to inform acquisition and investment. It can do this in two ways.
+First, it can be used to compare the claimed functionality in multiple product solution sets with a common defensive technique taxonomy. This makes it possible to identify product differences and product gaps relative to desired functionality in a more precise, consistent, and repeatable manner.
+Second, it can suggest a potential testing scope for the defensive techniques in terms of relevant offensive techniques. This is done by identifying a product or product set's claimed defensive techniques, then querying D3FEND for the potentially related offensive techniques. An offensive test plan can be constructed by selecting combinations of the related offensive techniques. This sort of testing can be useful to determine how well a defensive product performs its claimed functionality.
+What is the maturity level of D3FEND?
+D3FEND is a maturing research project. The initial release is not considered comprehensive, and the defensive to offensive technique mappings (which are inferentially generated) are fundamentally generalizations. However, expert cybersecurity knowledge is often, at its essence, the application of fundamental computer system knowledge. We aim to codify this knowledge in our knowledge graph and expect improvement over time as the graph builds on itself.
+D3FEND is mature enough to model your defenses and use as a tool to aide communications amongst stakeholders. The D3FEND ontology is maturing and will always be subject to change, however, it has been stable enough to enable some organizations to build tools on top of the ontology successfully.
+How often is D3FEND updated?
+The target update frequency will eventually be semi-annually. Though as of 2021, updates will be more frequent since the project is new and we are receiving frequent contributions from the community.
+What does a listed reference in D3FEND mean or imply?
+D3FEND references several different types of internet links. For example, patents, external knowledgebases, open specifications, and even open-source code repositories. The references are used for the purposes of developing the generic countermeasure technique knowledgebase article.
+Why does D3FEND reference patents?
+The patent corpus was our initial focus for multiple reasons. There is strong motivation for inventors, investors, and organizations to describe and distinguish how their cybersecurity technologies work in patents. This due to the various protections patents provide for intellectual property owners. It is also a highly curated corpus with category codes, citations, and an official legally authoritative assessment of the novelty of their claims. In our experience, vendor white papers and marketing material do not sufficiently explain how the technologies work at an engineering level, nor do they do so in as uniform a manner as patents. To date, there appears to be no comprehensive public analysis of the cybersecurity patent corpus for the purpose of developing a knowledge graph of cyber countermeasures.
+This corpus, while useful, has numerous issues that need to be understood when using it for our purpose. In some cases, the corpus is adversarial. For example, in academic papers, the citations tend to have high fidelity because researchers are incentivized to accurately represent prior scientific knowledge. Patents also have citations and prior art enumerations. However, these are often selected to bolster the case that the new patent is truly novel, useful, and non-obvious for business purposes. This is done without the peer review process used in academia.
+What does D3FEND stand for?
+Detection, Denial, and Disruption Framework Empowering Network Defense.
+How can I contribute?
+Please see our page on how to contribute.
+  Use of the MITRE D3FEND™ Knowledge Graph and website is subject to the Terms of Use. Use of the MITRE D3FEND website is subject to the
+    MITRE D3FEND Privacy Policy. MITRE D3FEND is funded
+    by the
+    National Security Agency
+    (NSA)
+    Cybersecurity Directorate
+    and managed by the
+    National Security Engineering Center
+    (NSEC) which is operated by
+    The MITRE Corporation. MITRE D3FEND; and the MITRE D3FEND logo are trademarks of The MITRE
+    Corporation. MITRE ATT&CK® and ATT&CK® are registered trademarks of
+    The MITRE Corporation. MITRE ATT&CK content is subject to the MITRE ATT&CK
+    terms of use.
+    This software was produced for the U. S. Government under Basic Contract No.
+    W56KGU-18-D-0004, and is subject to the Rights in Noncommercial Computer
+    Software and Noncommercial Computer Software Documentation Clause
+    252.227-7014 (FEB 2012)
+    © 2023 The MITRE Corporation.
+    Approved for Public Release; Distribution Unlimited #20-2338 and #23-1207.  
+
+
+
+
+
+
+
+
+
+
+
+Scraped at: 2024-05-04 23:10:55
