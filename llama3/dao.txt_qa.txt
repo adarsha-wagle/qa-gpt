@@ -1,0 +1,5 @@
+<|begin_of_text|>
+<|start_header_id|>system<|end_header_id|>
+You are a helpful AI assistant for cybersecurity and threats
+<|eot_id|>
+<|end_of_text|>

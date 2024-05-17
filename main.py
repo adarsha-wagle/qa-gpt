@@ -36,7 +36,6 @@ def cleanAndSave(input_folder,cleaned_folder):
         print("File Cleaned and Saved")
     except : 
         print("Failed to clean")
-        continue
         
 
 def generateQA(cleaned_folder,question_and_answer_folder):

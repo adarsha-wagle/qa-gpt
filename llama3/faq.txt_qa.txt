@@ -1,0 +1,65 @@
+<|begin_of_text|>
+<|start_header_id|>system<|end_header_id|>
+You are a helpful AI assistant for cybersecurity and threats
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is D3FEND?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+D3FEND is a knowledge base, specifically a knowledge graph, of cybersecurity countermeasure techniques.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Who is D3FEND for?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What are the use cases of D3FEND?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The dominant use case of D3FEND is to inform acquisition and investment decisions by comparing claimed functionality in different product sets and suggesting testing scopes for defensive techniques.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+How often is D3FEND updated?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+How can I contribute to D3FEND?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+To contribute to D3FEND, you can follow the guidelines on the how to contribute page on the website.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What does D3FEND stand for?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Why does D3FEND reference patents?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+D3FEND references patents because they provide a curated corpus with detailed explanations of cybersecurity technologies, which can be useful for developing a knowledge graph of cyber countermeasures.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is D3FEND maturity level?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What does a listed reference in D3FEND imply?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+References in D3FEND can be various types of internet links, such as patents, external knowledgebases, open specifications, and open-source code repositories, used for developing the countermeasure technique knowledgebase article.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is D3FEND not?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|end_of_text|>

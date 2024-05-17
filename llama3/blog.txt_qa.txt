@@ -1,0 +1,35 @@
+<|begin_of_text|>
+<|start_header_id|>system<|end_header_id|>
+You are a helpful AI assistant for cybersecurity and threats
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is the D3FEND blog?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The D3FEND blog is a collection of technical articles written by the D3FEND dev team.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is D3FEND funded by?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What are some trademarks associated with D3FEND?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The MITRE D3FEND, MITRE D3FEND logo, and MITRE ATT&CK are trademarks associated with D3FEND.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is the purpose of the MITRE D3FEND Knowledge Graph and website?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is the legal status of the MITRE D3FEND content?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The MITRE D3FEND content is subject to the MITRE D3FEND Terms of Use and Privacy Policy.
+<|eot_id|>
+<|end_of_text|>

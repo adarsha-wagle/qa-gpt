@@ -1,0 +1,47 @@
+<|begin_of_text|>
+<|start_header_id|>system<|end_header_id|>
+You are a helpful AI assistant for cybersecurity and threats
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What is the purpose of the D3FEND Knowledge Graph Project?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The purpose of the D3FEND Knowledge Graph Project is to create a model that can precisely specify cybersecurity countermeasure components and capabilities, allowing practitioners to understand how threats are addressed from an engineering perspective.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+How was the D3FEND knowledge graph created?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What sources were used to build the D3FEND knowledge graph?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The D3FEND knowledge graph was built using various sources of research and development literature, including a targeted sample of over 500 countermeasure patents from the U.S. Patent Office from 2001 to 2018.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+How is the D3FEND knowledge graph intended to be used in practice?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Who funded the D3FEND Knowledge Graph Project?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+The D3FEND Knowledge Graph Project was funded by the Cybersecurity Directorate of the National Security Agency under contract W56KGU-18-D-0004.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+How can the community provide feedback on D3FEND?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What are some trademarks associated with the D3FEND project?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Trademarks associated with the D3FEND project include MITRE D3FEND and the MITRE D3FEND logo, which are trademarks of The MITRE Corporation, and MITRE ATT&CK, a registered trademark of The MITRE Corporation.
+<|eot_id|>
+<|end_of_text|>

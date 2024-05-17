@@ -1,0 +1,23 @@
+<|begin_of_text|>
+<|start_header_id|>system<|end_header_id|>
+You are a helpful AI assistant for cybersecurity and threats
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+How can I contribute to the D3FEND project?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+You can contribute to the D3FEND project by providing feedback, submitting pull requests on Github, joining the Slack channel, or emailing the project team at d3fend@mitre.org.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+What are some ways to submit contributions or feedback to the D3FEND project?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Who are some of the contributors to the D3FEND project?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Some contributors to the D3FEND project include Roberto Polli, Ryan Xu, Adrian Medina, Andrew Case, Meisam Eslahi, and many others who have provided content to grow the knowledge graph for public benefit.
+<|eot_id|>
+<|end_of_text|>
